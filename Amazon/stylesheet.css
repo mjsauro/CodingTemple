@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    padding-left: 35%;
+    padding-right: 35%;
+    margin: 0 auto;
+}
+
+h1,
+h4,
+p,
+a,
+button {
+    font-family: arial;
+}
+
+form h4, form a {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: orange;
+}
+
+
+header, section, footer {
+    display: flex;
+    justify-content: center;
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+}
+
+div {
+    display:flex;
+    justify-content: space-between;
+}
+
+div a, div h4 {
+    margin: auto 0;
+}
+
+form {
+    border: 1px solid gray;
+    padding: 10%;
+    width: 80%;
+}
+
+input {
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+
+}
+
+input:focus{
+    outline-color: orange;
+    outline-width: thick;
+}
+
+button {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+
+    list-style: none;
+    display: flex;
+    padding-left: 0%;
+}
+
+nav li a {
+    display: inline-block;
+    text-align: center;
+    padding-left:10.0px;
+    padding-right:10.0px;
+}
+
+
+.button-color {
+    background-color: orange;
+}
+
+.button-color:hover {
+    background-color: darkorange;
+}
+
+.gray-button-color:hover {
+    background-color: darkgray;
+}
+
+.p-center {
+    text-align: center;
+}
