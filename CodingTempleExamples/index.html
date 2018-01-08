@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Form Examples</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<body>
+    <h1>On Forms</h1>
+    <p>While hard to use without learning server-side code, forms provide essential an essential building block for creating websites that allow an interactive experience with users.</p>
+    <h2>The Form Tag</h2>
+    <p>The form tag is the "payload" of information that is sent from the browser to the server. If I need to send data to the server but do not include it in the form tag, I won't get it on the server</p>
+    <form>
+        <!-- Forms contain many inputs to allow the user to enter information
+                    every form should have some sort of button or "submit" input that the user can click to trigger the form.
+
+                    by default, forms will send a request to the server with the form values set as query string parameters
+            -->
+        <input class="input" type="text" name="username" placeholder="Enter a username" />
+        <input class="input" type="password" name="password" placeholder="Enter a password" />
+        <input class="input" type="submit" value="GET a submit" /> </form>
+    <h2>A form with "POST"</h2>
+
+    <form method="POST">
+        <p>While the GET method is good for some things, like search, POST is more secure, and it handles file uploads.</p>
+        <input type="text" name="username" placeholder="Enter a username" />
+        <input type="password" name="password" placeholder="Enter a password" />
+        <input type="submit" value="POST a submit" /> </form>
+    <h2>Other form inputs</h2>
+    <!--method="post" enctype="multipart/form-data"-->
+    <form>
+        <p>Proper formatting for a form input:</p>
+        <div>
+            <label for="unique_key">The label tells the user what you're asking for</label>
+            <input type="text" name="unique_key" placeholder="What you want the helper text to say" value="pre-populated" /> </div>
+        <div>
+            <label for="username">Username</label>
+            <input type="text" placeholder="Username" /> </div>
+        <div>
+            <label for="Password">Password</label>
+            <input type="password" placeholder="Password" /> </div>
+        <h3>Other Text Controls</h3>
+        <div>
+            <label for="multilinetext">Multiple Lines</label>
+            <textarea class="multi" name="multilinetext"></textarea>
+        </div>
+        <h3>Choice Controls</h3>
+        <p>Checkboxes, either on or off</p>
+        <div>
+            <label for="agree">Do you accept the terms of service?</label>
+            <input type="checkbox" name="agree" value="true" /> </div>
+        <div>
+            <label for="programminglanguage">Which language do you know?
+                <br>
+                <input type="checkbox" name="programminglanguage" value="csharp">C#
+                <br />
+                <input type="checkbox" name="programminglanguage" value="python">Python
+                <br />
+                <input type="checkbox" name="programminglanguage" value="java">Java
+                <br />
+                <input type="checkbox" name="programminglanguage" value="Ruby">Ruby
+                <br /> </label>
+        </div>
+        <p>Radio buttons - exclusive choice</p>
+        <div>
+            <label for="drinkchoice">Do you prefer</label>
+            <br/>
+            <input type="radio" name="drinkchoice" value="Coffee" /><span>Coffee</span>
+            <br />
+            <input type="radio" name="drinkchoice" value="Soda" /><span>Coke</span>
+            <br />
+            <input type="radio" name="drinkchoice" value="Tea" /><span>Tea</span>
+            <br />
+            <input type="radio" name="drinkchoice" value="Beer" /><span>Beer</span>
+            <br /> </div>
+        <div>
+            <p>Drop Down Lists - exclusive choice (5+ options)</p>
+            <label for="homestate">What state were you born in?</label>
+            <select name="homestate" required>
+                <option value="">Pick a state</option>
+                <option value="ID">Idaho</option>
+                <option value="IA">Iowa</option>
+                <option value="IL">Illinois</option>
+            </select>
+        </div>
+        <div>
+            <label for="country">What country were you born in?</label>
+            <select name="country">
+                <optgroup label="North America">
+                    <option value="usa">USA</option>
+                    <option value="canada">Canada</option>
+                    <option value="mexico">Mexico</option>
+                </optgroup>
+                <optgroup label="Europe">
+                    <option value="germany">Germany</option>
+                    <option value="france">France</option>
+                    <option value="belgium">Belgium</option>
+                </optgroup>
+            </select>
+        </div>
+        <div>
+            <label for="instructor">Favorite Instructors at Coding Temple</label>
+            <select name="instructor" multiple>
+                <option>Joel</option>
+                <option>Joe</option>
+                <option>Derek</option>
+            </select>
+        </div>
+        <h2>File Upload</h2>
+        <input type="file" name="myfile" />
+        <h2>Hidden Fields</h2>
+        <input type="hidden" name="hiddenfield" value="This is hidden data sent to the client" />
+        <div>
+            <fieldset>
+                <legend>Other Input Options - Test these before you use them!</legend>
+                <div>
+                    Color:<input type="color" name="color" /> </div>
+                <div>
+                    Datetime-local:<input type="datetime-local" /> </div>
+                <div>
+                    Email:<input type="email" /> </div>
+                <div>
+                    Number:<input type="number" /> </div>
+                <div>
+                    Telephone:<input type="tel" /> </div>
+            </fieldset>
+        </div>
+        <input class="submit" type="submit" /> </form>
+</body>
+
+</html>

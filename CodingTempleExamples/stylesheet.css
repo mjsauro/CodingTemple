@@ -1,0 +1,32 @@
+input {
+    font-size: 10px;
+}
+
+input:hover {
+    border: 5px solid black;
+}
+
+.submit {
+    color: aqua;
+    text-shadow: 2px 2px 8px #FF0000;
+    background-color: orange;
+    height: 2em;
+    width: 10em;
+}
+
+.submit:hover {
+    height: 5em;
+    width: 20em;
+}
+
+div span {
+    font-weight: bold;
+}
+.input {
+    color: magenta;
+    box-shadow: 10px 10px 10px orange;
+}
+
+.multi {
+    background-color: red;
+}
