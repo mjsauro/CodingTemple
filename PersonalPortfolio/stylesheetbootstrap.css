@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+    font-family: arial, sans-serif;
+
+}
+
+.container-fluid {
+    width: 80%;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin: auto 0;
+
+}
+
+nav {
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+footer li {
+    font-size: 50px;
+    display: inline;
+    align-items: center;
+}
+
+footer a {
+    align-items: center;
+}
+a {
+    color: black;
+    padding: 0 25px 0 25px;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: red;
+}
+
+img {
+    width: 80%;
+    border-radius: 45px;
+    padding: 20px 20px 20px 20px;
+}
+/* class */
+
+.row {
+    text-align: center;
+}
+
+/* id styles */
+    #padding-top: 3%;
+}
+
+#home,
+#work,
+#contact {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+
+#mattpic {
+    border-radius: 241px;
+    width: 50%;
+    padding: 40px 20px 20px 20px;
+}
+
+#bottom-jumbotron {
+    margin-bottom: 0px;
+}

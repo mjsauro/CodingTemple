@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    font-family: arial, sans-serif;
+
+}
+
+.container {
+    width: 80%;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin: 0 auto;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+header {
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+header a {
+    text-decoration: none;
+}
+
+header a:visited {
+    color: gray;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+footer ul {
+    margin-top: 0px;
+    padding-left: 0px;
+}
+
+footer li {
+    font-size: 50px;
+}
+
+footer a {
+    color: black;
+}
+
+footer a:visited {
+    color: gray;
+}
+
+footer a:hover {
+    color: red;
+}
+
+li {
+    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+    padding: 20px;
+}
+
+img {
+    width: 80%;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header a:visited {
+    color: gray;
+}
+
+/* alignment */
+
+.flex-container {
+    display: flex;
+    text-align: center;
+}
+
+.flex-item {
+    flex-grow: 1;
+}
+
+
+/* class styles */
+
+.button {
+    background-color: #E3E5EE;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+}
+
+.button:hover {
+    border: 1px solid red;
+}
+
+/* id styles */
+
+#header-color {
+    background-color: #C3C6D1;
+}
+
+#work {
+    background-color: #D2D6E0
+}
+
+#home, #contact {
+    background-color: #A7AAB5;
+}
+
+#home,
+#work,
+#contact {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+#mattpic {
+    border-radius: 241px;
+    width: 50%;
+    padding: 20px 20px 20px 20px;
+}

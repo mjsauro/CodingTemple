@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="stylesheetflex.css">
+    <title>Matt Sauro</title>
+    <script src="https://use.fontawesome.com/a62cf8bb4a.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('a[href^="#"]').on('click', function(e) {
+                e.preventDefault();
+
+                var target = this.hash;
+                var $target = $(target);
+
+                $('html, body').stop().animate({
+                    'scrollTop': $target.offset().top
+                }, 900, 'swing', function() {
+                    window.location.hash = target;
+                });
+            });
+        });
+
+    </script>
+</head>
+<header class="container" id="header-color">
+    <div class="flex-container">
+        <h1 class="flex-item">Matt Sauro</h1>
+        <nav class="flex-item">
+            <ul>
+                <li><a class="button" href="#home">Home</a></li>
+                <li><a class="button" href="#work">Work</a></li>
+                <li><a class="button" href="#contact">Contact Me</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<body>
+    <section class="container" id="home">
+        <div class="flex-container">
+            <div class="flex-item">
+                <h2>Welcome to my personal portfolio.</h2>
+                <blockquote>
+                    <p>My name is Matt Sauro. I'm an aspiring coder and I want to show off my skills.</p>
+                </blockquote>
+            </div>
+            <div class="flex-item">
+                <img id="mattpic" src="images/mattsauro.jpg" alt="Picture of me" />
+            </div>
+        </div>
+    </section>
+    <section>
+    </section>
+    <section class="container" id="work">
+        <h2>Here is some of my work.</h2>
+
+        <div class="flex-container">
+            <div class="flex-item">
+                <img src="http://via.placeholder.com/350x350" alt="placeholder">
+            </div>
+            <div class="flex-item">
+                <img src="http://via.placeholder.com/350x350" alt="placeholder">
+            </div>
+        </div>
+        <div class="flex-container">
+            <div class="flex-item">
+                <img src="http://via.placeholder.com/350x350" alt="placeholder">
+            </div>
+            <div class="flex-item">
+                <img src="http://via.placeholder.com/350x350" alt="placeholder">
+            </div>
+        </div>
+    </section>
+</body>
+<footer class="container" id="contact">
+    <div class="flex-container">
+        <div class="flex-item">
+            <nav>
+                <ul>
+                    <h1>Contact Me</h1>
+                    <li><a href="mailto: mjsauro@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/matthew-sauro-20b77114/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                    <li><a href="https://github.com/southclaw23"><i class="fa fa-git" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.facebook.com/matt.sauro"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</footer>
+
+</html>
