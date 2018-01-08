@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2017\Projects\3-7 HandlingExceptions\3-7 HandlingExceptions\bin\Debug\3-7 HandlingExceptions.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\3-7 HandlingExceptions\3-7 HandlingExceptions\bin\Debug\3-7 HandlingExceptions.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-7 HandlingExceptions\3-7 HandlingExceptions\bin\Debug\3-7 HandlingExceptions.pdb
+c:\users\matt\documents\visual studio 2017\Projects\3-7 HandlingExceptions\3-7 HandlingExceptions\obj\Debug\3-7 HandlingExceptions.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\3-7 HandlingExceptions\3-7 HandlingExceptions\obj\Debug\3-7 HandlingExceptions.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-7 HandlingExceptions\3-7 HandlingExceptions\obj\Debug\3-7 HandlingExceptions.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-7 HandlingExceptions\3-7 HandlingExceptions\bin\Debug\3-7 HandlingExceptions.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-7 HandlingExceptions\3-7 HandlingExceptions\bin\Debug\3-7 HandlingExceptions.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-7 HandlingExceptions\3-7 HandlingExceptions\bin\Debug\3-7 HandlingExceptions.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-7 HandlingExceptions\3-7 HandlingExceptions\obj\Debug\3-7 HandlingExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-7 HandlingExceptions\3-7 HandlingExceptions\obj\Debug\3-7 HandlingExceptions.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-7 HandlingExceptions\3-7 HandlingExceptions\obj\Debug\3-7 HandlingExceptions.pdb

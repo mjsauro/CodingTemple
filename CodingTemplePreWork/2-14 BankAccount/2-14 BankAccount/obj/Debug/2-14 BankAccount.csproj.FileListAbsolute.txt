@@ -1,0 +1,6 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-14 BankAccount\2-14 BankAccount\bin\Debug\2-14 BankAccount.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-14 BankAccount\2-14 BankAccount\bin\Debug\2-14 BankAccount.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-14 BankAccount\2-14 BankAccount\bin\Debug\2-14 BankAccount.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-14 BankAccount\2-14 BankAccount\obj\Debug\2-14 BankAccount.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\2-14 BankAccount\2-14 BankAccount\obj\Debug\2-14 BankAccount.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-14 BankAccount\2-14 BankAccount\obj\Debug\2-14 BankAccount.pdb

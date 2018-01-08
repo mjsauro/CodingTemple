@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2017\Projects\14 SumTotalOfArray\14 SumTotalOfArray\bin\Debug\14 SumTotalOfArray.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\14 SumTotalOfArray\14 SumTotalOfArray\bin\Debug\14 SumTotalOfArray.exe
+c:\users\matt\documents\visual studio 2017\Projects\14 SumTotalOfArray\14 SumTotalOfArray\bin\Debug\14 SumTotalOfArray.pdb
+c:\users\matt\documents\visual studio 2017\Projects\14 SumTotalOfArray\14 SumTotalOfArray\obj\Debug\14 SumTotalOfArray.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\14 SumTotalOfArray\14 SumTotalOfArray\obj\Debug\14 SumTotalOfArray.exe
+c:\users\matt\documents\visual studio 2017\Projects\14 SumTotalOfArray\14 SumTotalOfArray\obj\Debug\14 SumTotalOfArray.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-14 SumTotalOfArray\14 SumTotalOfArray\bin\Debug\14 SumTotalOfArray.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-14 SumTotalOfArray\14 SumTotalOfArray\bin\Debug\14 SumTotalOfArray.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-14 SumTotalOfArray\14 SumTotalOfArray\bin\Debug\14 SumTotalOfArray.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-14 SumTotalOfArray\14 SumTotalOfArray\obj\Debug\14 SumTotalOfArray.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-14 SumTotalOfArray\14 SumTotalOfArray\obj\Debug\14 SumTotalOfArray.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-14 SumTotalOfArray\14 SumTotalOfArray\obj\Debug\14 SumTotalOfArray.pdb

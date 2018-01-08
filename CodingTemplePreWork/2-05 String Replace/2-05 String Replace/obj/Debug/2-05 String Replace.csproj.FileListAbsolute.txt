@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-05 String Replace\2-05 String Replace\bin\Debug\2-05 String Replace.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-05 String Replace\2-05 String Replace\bin\Debug\2-05 String Replace.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-05 String Replace\2-05 String Replace\bin\Debug\2-05 String Replace.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-05 String Replace\2-05 String Replace\obj\Debug\2-05 String Replace.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-05 String Replace\2-05 String Replace\obj\Debug\2-05 String Replace.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-05 String Replace\2-05 String Replace\obj\Debug\2-05 String Replace.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-05 String Replace\2-05 String Replace\obj\Debug\2-05 String Replace.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-05 String Replace\2-05 String Replace\obj\Debug\2-05 String Replace.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-05 String Replace\2-05 String Replace\bin\Debug\2-05 String Replace.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-05 String Replace\2-05 String Replace\bin\Debug\2-05 String Replace.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-05 String Replace\2-05 String Replace\bin\Debug\2-05 String Replace.pdb

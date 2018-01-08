@@ -1,0 +1,10 @@
+c:\users\matt\documents\visual studio 2017\Projects\12 PrintOdd\12 PrintOdd\bin\Debug\12 PrintOdd.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\12 PrintOdd\12 PrintOdd\bin\Debug\12 PrintOdd.exe
+c:\users\matt\documents\visual studio 2017\Projects\12 PrintOdd\12 PrintOdd\bin\Debug\12 PrintOdd.pdb
+c:\users\matt\documents\visual studio 2017\Projects\12 PrintOdd\12 PrintOdd\obj\Debug\12 PrintOdd.exe
+c:\users\matt\documents\visual studio 2017\Projects\12 PrintOdd\12 PrintOdd\obj\Debug\12 PrintOdd.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-12 PrintOdd\12 PrintOdd\bin\Debug\12 PrintOdd.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-12 PrintOdd\12 PrintOdd\bin\Debug\12 PrintOdd.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-12 PrintOdd\12 PrintOdd\bin\Debug\12 PrintOdd.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-12 PrintOdd\12 PrintOdd\obj\Debug\12 PrintOdd.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-12 PrintOdd\12 PrintOdd\obj\Debug\12 PrintOdd.pdb

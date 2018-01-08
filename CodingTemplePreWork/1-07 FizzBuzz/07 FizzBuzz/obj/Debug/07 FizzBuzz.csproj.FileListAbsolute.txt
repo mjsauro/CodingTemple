@@ -1,0 +1,10 @@
+c:\users\matt\documents\visual studio 2017\Projects\07 FizzBuzz\07 FizzBuzz\bin\Debug\07 FizzBuzz.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\07 FizzBuzz\07 FizzBuzz\bin\Debug\07 FizzBuzz.exe
+c:\users\matt\documents\visual studio 2017\Projects\07 FizzBuzz\07 FizzBuzz\bin\Debug\07 FizzBuzz.pdb
+c:\users\matt\documents\visual studio 2017\Projects\07 FizzBuzz\07 FizzBuzz\obj\Debug\07 FizzBuzz.exe
+c:\users\matt\documents\visual studio 2017\Projects\07 FizzBuzz\07 FizzBuzz\obj\Debug\07 FizzBuzz.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-07 FizzBuzz\07 FizzBuzz\bin\Debug\07 FizzBuzz.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-07 FizzBuzz\07 FizzBuzz\bin\Debug\07 FizzBuzz.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-07 FizzBuzz\07 FizzBuzz\bin\Debug\07 FizzBuzz.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-07 FizzBuzz\07 FizzBuzz\obj\Debug\07 FizzBuzz.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-07 FizzBuzz\07 FizzBuzz\obj\Debug\07 FizzBuzz.pdb

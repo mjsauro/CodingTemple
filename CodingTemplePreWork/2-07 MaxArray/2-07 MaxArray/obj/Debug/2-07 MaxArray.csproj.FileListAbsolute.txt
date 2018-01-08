@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-07 MaxArray\2-07 MaxArray\bin\Debug\2-07 MaxArray.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-07 MaxArray\2-07 MaxArray\bin\Debug\2-07 MaxArray.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-07 MaxArray\2-07 MaxArray\bin\Debug\2-07 MaxArray.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-07 MaxArray\2-07 MaxArray\obj\Debug\2-07 MaxArray.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-07 MaxArray\2-07 MaxArray\obj\Debug\2-07 MaxArray.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-07 MaxArray\2-07 MaxArray\bin\Debug\2-07 MaxArray.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-07 MaxArray\2-07 MaxArray\bin\Debug\2-07 MaxArray.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-07 MaxArray\2-07 MaxArray\bin\Debug\2-07 MaxArray.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-07 MaxArray\2-07 MaxArray\obj\Debug\2-07 MaxArray.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-07 MaxArray\2-07 MaxArray\obj\Debug\2-07 MaxArray.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-07 MaxArray\2-07 MaxArray\obj\Debug\2-07 MaxArray.pdb

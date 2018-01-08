@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\bin\Debug\16 FirstHalfSecondHalf.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\bin\Debug\16 FirstHalfSecondHalf.exe
+c:\users\matt\documents\visual studio 2017\Projects\16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\bin\Debug\16 FirstHalfSecondHalf.pdb
+c:\users\matt\documents\visual studio 2017\Projects\16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\obj\Debug\16 FirstHalfSecondHalf.exe
+c:\users\matt\documents\visual studio 2017\Projects\16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\obj\Debug\16 FirstHalfSecondHalf.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\bin\Debug\16 FirstHalfSecondHalf.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\bin\Debug\16 FirstHalfSecondHalf.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\bin\Debug\16 FirstHalfSecondHalf.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\obj\Debug\16 FirstHalfSecondHalf.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\obj\Debug\16 FirstHalfSecondHalf.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-16 FirstHalfSecondHalf\16 FirstHalfSecondHalf\obj\Debug\16 FirstHalfSecondHalf.csprojResolveAssemblyReference.cache

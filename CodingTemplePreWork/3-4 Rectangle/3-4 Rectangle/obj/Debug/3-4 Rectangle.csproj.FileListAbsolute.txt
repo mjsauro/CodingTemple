@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2017\Projects\3-4 Rectangle\3-4 Rectangle\bin\Debug\3-4 Rectangle.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\3-4 Rectangle\3-4 Rectangle\bin\Debug\3-4 Rectangle.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-4 Rectangle\3-4 Rectangle\bin\Debug\3-4 Rectangle.pdb
+c:\users\matt\documents\visual studio 2017\Projects\3-4 Rectangle\3-4 Rectangle\obj\Debug\3-4 Rectangle.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\3-4 Rectangle\3-4 Rectangle\obj\Debug\3-4 Rectangle.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-4 Rectangle\3-4 Rectangle\obj\Debug\3-4 Rectangle.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-4 Rectangle\3-4 Rectangle\bin\Debug\3-4 Rectangle.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-4 Rectangle\3-4 Rectangle\bin\Debug\3-4 Rectangle.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-4 Rectangle\3-4 Rectangle\bin\Debug\3-4 Rectangle.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-4 Rectangle\3-4 Rectangle\obj\Debug\3-4 Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-4 Rectangle\3-4 Rectangle\obj\Debug\3-4 Rectangle.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-4 Rectangle\3-4 Rectangle\obj\Debug\3-4 Rectangle.pdb

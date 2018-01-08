@@ -1,0 +1,5 @@
+c:\users\matt\documents\visual studio 2017\Projects\06 AmountOfPositives\06 AmountOfPositives\bin\Debug\06 AmountOfPositives.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\06 AmountOfPositives\06 AmountOfPositives\bin\Debug\06 AmountOfPositives.exe
+c:\users\matt\documents\visual studio 2017\Projects\06 AmountOfPositives\06 AmountOfPositives\bin\Debug\06 AmountOfPositives.pdb
+c:\users\matt\documents\visual studio 2017\Projects\06 AmountOfPositives\06 AmountOfPositives\obj\Debug\06 AmountOfPositives.exe
+c:\users\matt\documents\visual studio 2017\Projects\06 AmountOfPositives\06 AmountOfPositives\obj\Debug\06 AmountOfPositives.pdb

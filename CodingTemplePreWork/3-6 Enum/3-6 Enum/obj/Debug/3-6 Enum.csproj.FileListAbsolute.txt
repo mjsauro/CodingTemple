@@ -1,0 +1,6 @@
+c:\users\matt\documents\visual studio 2017\Projects\3-6 Enum\3-6 Enum\obj\Debug\3-6 Enum.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\3-6 Enum\3-6 Enum\bin\Debug\3-6 Enum.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\3-6 Enum\3-6 Enum\bin\Debug\3-6 Enum.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-6 Enum\3-6 Enum\bin\Debug\3-6 Enum.pdb
+c:\users\matt\documents\visual studio 2017\Projects\3-6 Enum\3-6 Enum\obj\Debug\3-6 Enum.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-6 Enum\3-6 Enum\obj\Debug\3-6 Enum.pdb

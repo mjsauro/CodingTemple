@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\04 Average\04 Average\bin\Debug\04 Average.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\04 Average\04 Average\bin\Debug\04 Average.exe
+c:\users\matt\documents\visual studio 2017\Projects\04 Average\04 Average\bin\Debug\04 Average.pdb
+c:\users\matt\documents\visual studio 2017\Projects\04 Average\04 Average\obj\Debug\04 Average.exe
+c:\users\matt\documents\visual studio 2017\Projects\04 Average\04 Average\obj\Debug\04 Average.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-04 Average\04 Average\bin\Debug\04 Average.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-04 Average\04 Average\bin\Debug\04 Average.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-04 Average\04 Average\bin\Debug\04 Average.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-04 Average\04 Average\obj\Debug\04 Average.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-04 Average\04 Average\obj\Debug\04 Average.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-04 Average\04 Average\obj\Debug\04 Average.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\matt\documents\visual studio 2017\Projects\CTRacingApp\CTRacingApp\bin\Debug\CTRacingApp.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\CTRacingApp\CTRacingApp\bin\Debug\CTRacingApp.exe
+c:\users\matt\documents\visual studio 2017\Projects\CTRacingApp\CTRacingApp\bin\Debug\CTRacingApp.pdb
+c:\users\matt\documents\visual studio 2017\Projects\CTRacingApp\CTRacingApp\obj\Debug\CTRacingApp.exe
+c:\users\matt\documents\visual studio 2017\Projects\CTRacingApp\CTRacingApp\obj\Debug\CTRacingApp.pdb

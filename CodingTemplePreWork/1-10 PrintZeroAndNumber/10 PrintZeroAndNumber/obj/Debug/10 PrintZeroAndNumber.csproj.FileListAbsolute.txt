@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\10 PrintZeroAndNumber\10 PrintZeroAndNumber\bin\Debug\10 PrintZeroAndNumber.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\10 PrintZeroAndNumber\10 PrintZeroAndNumber\bin\Debug\10 PrintZeroAndNumber.exe
+c:\users\matt\documents\visual studio 2017\Projects\10 PrintZeroAndNumber\10 PrintZeroAndNumber\bin\Debug\10 PrintZeroAndNumber.pdb
+c:\users\matt\documents\visual studio 2017\Projects\10 PrintZeroAndNumber\10 PrintZeroAndNumber\obj\Debug\10 PrintZeroAndNumber.exe
+c:\users\matt\documents\visual studio 2017\Projects\10 PrintZeroAndNumber\10 PrintZeroAndNumber\obj\Debug\10 PrintZeroAndNumber.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-10 PrintZeroAndNumber\10 PrintZeroAndNumber\obj\Debug\10 PrintZeroAndNumber.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-10 PrintZeroAndNumber\10 PrintZeroAndNumber\obj\Debug\10 PrintZeroAndNumber.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-10 PrintZeroAndNumber\10 PrintZeroAndNumber\bin\Debug\10 PrintZeroAndNumber.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-10 PrintZeroAndNumber\10 PrintZeroAndNumber\bin\Debug\10 PrintZeroAndNumber.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-10 PrintZeroAndNumber\10 PrintZeroAndNumber\bin\Debug\10 PrintZeroAndNumber.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-10 PrintZeroAndNumber\10 PrintZeroAndNumber\obj\Debug\10 PrintZeroAndNumber.csprojResolveAssemblyReference.cache

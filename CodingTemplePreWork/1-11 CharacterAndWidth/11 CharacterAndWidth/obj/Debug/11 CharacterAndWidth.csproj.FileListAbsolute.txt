@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2017\Projects\11 CharacterAndWidth\11 CharacterAndWidth\bin\Debug\11 CharacterAndWidth.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\11 CharacterAndWidth\11 CharacterAndWidth\bin\Debug\11 CharacterAndWidth.exe
+c:\users\matt\documents\visual studio 2017\Projects\11 CharacterAndWidth\11 CharacterAndWidth\bin\Debug\11 CharacterAndWidth.pdb
+c:\users\matt\documents\visual studio 2017\Projects\11 CharacterAndWidth\11 CharacterAndWidth\obj\Debug\11 CharacterAndWidth.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\11 CharacterAndWidth\11 CharacterAndWidth\obj\Debug\11 CharacterAndWidth.exe
+c:\users\matt\documents\visual studio 2017\Projects\11 CharacterAndWidth\11 CharacterAndWidth\obj\Debug\11 CharacterAndWidth.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-11 CharacterAndWidth\11 CharacterAndWidth\bin\Debug\11 CharacterAndWidth.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-11 CharacterAndWidth\11 CharacterAndWidth\bin\Debug\11 CharacterAndWidth.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-11 CharacterAndWidth\11 CharacterAndWidth\bin\Debug\11 CharacterAndWidth.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-11 CharacterAndWidth\11 CharacterAndWidth\obj\Debug\11 CharacterAndWidth.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-11 CharacterAndWidth\11 CharacterAndWidth\obj\Debug\11 CharacterAndWidth.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-11 CharacterAndWidth\11 CharacterAndWidth\obj\Debug\11 CharacterAndWidth.pdb

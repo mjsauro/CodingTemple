@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\08 GreaterThan\08 GreaterThan\bin\Debug\08 GreaterThan.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\08 GreaterThan\08 GreaterThan\bin\Debug\08 GreaterThan.exe
+c:\users\matt\documents\visual studio 2017\Projects\08 GreaterThan\08 GreaterThan\bin\Debug\08 GreaterThan.pdb
+c:\users\matt\documents\visual studio 2017\Projects\08 GreaterThan\08 GreaterThan\obj\Debug\08 GreaterThan.exe
+c:\users\matt\documents\visual studio 2017\Projects\08 GreaterThan\08 GreaterThan\obj\Debug\08 GreaterThan.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-08 GreaterThan\08 GreaterThan\bin\Debug\08 GreaterThan.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-08 GreaterThan\08 GreaterThan\bin\Debug\08 GreaterThan.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-08 GreaterThan\08 GreaterThan\bin\Debug\08 GreaterThan.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-08 GreaterThan\08 GreaterThan\obj\Debug\08 GreaterThan.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-08 GreaterThan\08 GreaterThan\obj\Debug\08 GreaterThan.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-08 GreaterThan\08 GreaterThan\obj\Debug\08 GreaterThan.csprojResolveAssemblyReference.cache

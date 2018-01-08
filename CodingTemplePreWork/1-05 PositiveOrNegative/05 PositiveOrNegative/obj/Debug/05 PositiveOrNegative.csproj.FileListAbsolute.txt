@@ -1,0 +1,10 @@
+c:\users\matt\documents\visual studio 2017\Projects\05 PositiveOrNegative\05 PositiveOrNegative\bin\Debug\05 PositiveOrNegative.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\05 PositiveOrNegative\05 PositiveOrNegative\bin\Debug\05 PositiveOrNegative.exe
+c:\users\matt\documents\visual studio 2017\Projects\05 PositiveOrNegative\05 PositiveOrNegative\bin\Debug\05 PositiveOrNegative.pdb
+c:\users\matt\documents\visual studio 2017\Projects\05 PositiveOrNegative\05 PositiveOrNegative\obj\Debug\05 PositiveOrNegative.exe
+c:\users\matt\documents\visual studio 2017\Projects\05 PositiveOrNegative\05 PositiveOrNegative\obj\Debug\05 PositiveOrNegative.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-05 PositiveOrNegative\05 PositiveOrNegative\bin\Debug\05 PositiveOrNegative.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-05 PositiveOrNegative\05 PositiveOrNegative\bin\Debug\05 PositiveOrNegative.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-05 PositiveOrNegative\05 PositiveOrNegative\bin\Debug\05 PositiveOrNegative.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-05 PositiveOrNegative\05 PositiveOrNegative\obj\Debug\05 PositiveOrNegative.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-05 PositiveOrNegative\05 PositiveOrNegative\obj\Debug\05 PositiveOrNegative.pdb

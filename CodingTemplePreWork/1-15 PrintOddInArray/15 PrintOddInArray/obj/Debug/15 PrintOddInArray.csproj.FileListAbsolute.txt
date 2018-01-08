@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\15 PrintOddInArray\15 PrintOddInArray\bin\Debug\15 PrintOddInArray.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\15 PrintOddInArray\15 PrintOddInArray\bin\Debug\15 PrintOddInArray.exe
+c:\users\matt\documents\visual studio 2017\Projects\15 PrintOddInArray\15 PrintOddInArray\bin\Debug\15 PrintOddInArray.pdb
+c:\users\matt\documents\visual studio 2017\Projects\15 PrintOddInArray\15 PrintOddInArray\obj\Debug\15 PrintOddInArray.exe
+c:\users\matt\documents\visual studio 2017\Projects\15 PrintOddInArray\15 PrintOddInArray\obj\Debug\15 PrintOddInArray.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-15 PrintOddInArray\15 PrintOddInArray\bin\Debug\15 PrintOddInArray.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-15 PrintOddInArray\15 PrintOddInArray\bin\Debug\15 PrintOddInArray.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-15 PrintOddInArray\15 PrintOddInArray\bin\Debug\15 PrintOddInArray.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-15 PrintOddInArray\15 PrintOddInArray\obj\Debug\15 PrintOddInArray.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-15 PrintOddInArray\15 PrintOddInArray\obj\Debug\15 PrintOddInArray.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-15 PrintOddInArray\15 PrintOddInArray\obj\Debug\15 PrintOddInArray.csprojResolveAssemblyReference.cache

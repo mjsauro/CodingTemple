@@ -1,0 +1,10 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-10 Point\2-10 Point\bin\Debug\2-10 Point.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-10 Point\2-10 Point\bin\Debug\2-10 Point.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-10 Point\2-10 Point\bin\Debug\2-10 Point.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-10 Point\2-10 Point\obj\Debug\2-10 Point.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-10 Point\2-10 Point\obj\Debug\2-10 Point.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-10 Point\2-10 Point\bin\Debug\2-10 Point.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-10 Point\2-10 Point\bin\Debug\2-10 Point.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-10 Point\2-10 Point\bin\Debug\2-10 Point.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-10 Point\2-10 Point\obj\Debug\2-10 Point.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-10 Point\2-10 Point\obj\Debug\2-10 Point.pdb

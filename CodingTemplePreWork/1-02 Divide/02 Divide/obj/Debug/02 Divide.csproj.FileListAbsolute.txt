@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\02 Divide\02 Divide\bin\Debug\02 Divide.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\02 Divide\02 Divide\bin\Debug\02 Divide.exe
+c:\users\matt\documents\visual studio 2017\Projects\02 Divide\02 Divide\bin\Debug\02 Divide.pdb
+c:\users\matt\documents\visual studio 2017\Projects\02 Divide\02 Divide\obj\Debug\02 Divide.exe
+c:\users\matt\documents\visual studio 2017\Projects\02 Divide\02 Divide\obj\Debug\02 Divide.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-02 Divide\02 Divide\bin\Debug\02 Divide.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-02 Divide\02 Divide\bin\Debug\02 Divide.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-02 Divide\02 Divide\bin\Debug\02 Divide.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-02 Divide\02 Divide\obj\Debug\02 Divide.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-02 Divide\02 Divide\obj\Debug\02 Divide.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-02 Divide\02 Divide\obj\Debug\02 Divide.pdb

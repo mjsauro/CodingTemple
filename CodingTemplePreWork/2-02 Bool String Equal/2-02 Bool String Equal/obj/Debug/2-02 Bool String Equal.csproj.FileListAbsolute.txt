@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-02 Bool String Equal\2-02 Bool String Equal\bin\Debug\2-02 Bool String Equal.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-02 Bool String Equal\2-02 Bool String Equal\bin\Debug\2-02 Bool String Equal.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-02 Bool String Equal\2-02 Bool String Equal\bin\Debug\2-02 Bool String Equal.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-02 Bool String Equal\2-02 Bool String Equal\obj\Debug\2-02 Bool String Equal.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-02 Bool String Equal\2-02 Bool String Equal\obj\Debug\2-02 Bool String Equal.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-02 Bool String Equal\2-02 Bool String Equal\bin\Debug\2-02 Bool String Equal.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-02 Bool String Equal\2-02 Bool String Equal\bin\Debug\2-02 Bool String Equal.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-02 Bool String Equal\2-02 Bool String Equal\bin\Debug\2-02 Bool String Equal.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-02 Bool String Equal\2-02 Bool String Equal\obj\Debug\2-02 Bool String Equal.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-02 Bool String Equal\2-02 Bool String Equal\obj\Debug\2-02 Bool String Equal.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-02 Bool String Equal\2-02 Bool String Equal\obj\Debug\2-02 Bool String Equal.pdb

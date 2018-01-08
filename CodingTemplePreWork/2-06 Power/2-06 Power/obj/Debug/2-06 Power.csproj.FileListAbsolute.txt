@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-06 Power\2-06 Power\bin\Debug\2-06 Power.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-06 Power\2-06 Power\bin\Debug\2-06 Power.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-06 Power\2-06 Power\bin\Debug\2-06 Power.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-06 Power\2-06 Power\obj\Debug\2-06 Power.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-06 Power\2-06 Power\obj\Debug\2-06 Power.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-06 Power\2-06 Power\bin\Debug\2-06 Power.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-06 Power\2-06 Power\bin\Debug\2-06 Power.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-06 Power\2-06 Power\bin\Debug\2-06 Power.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-06 Power\2-06 Power\obj\Debug\2-06 Power.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-06 Power\2-06 Power\obj\Debug\2-06 Power.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-06 Power\2-06 Power\obj\Debug\2-06 Power.pdb

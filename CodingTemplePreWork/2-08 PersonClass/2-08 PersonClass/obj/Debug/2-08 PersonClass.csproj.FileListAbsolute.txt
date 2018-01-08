@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-08 PersonClass\2-08 PersonClass\bin\Debug\2-08 PersonClass.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-08 PersonClass\2-08 PersonClass\bin\Debug\2-08 PersonClass.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-08 PersonClass\2-08 PersonClass\bin\Debug\2-08 PersonClass.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-08 PersonClass\2-08 PersonClass\obj\Debug\2-08 PersonClass.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-08 PersonClass\2-08 PersonClass\obj\Debug\2-08 PersonClass.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-08 PersonClass\2-08 PersonClass\bin\Debug\2-08 PersonClass.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-08 PersonClass\2-08 PersonClass\bin\Debug\2-08 PersonClass.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-08 PersonClass\2-08 PersonClass\bin\Debug\2-08 PersonClass.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-08 PersonClass\2-08 PersonClass\obj\Debug\2-08 PersonClass.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-08 PersonClass\2-08 PersonClass\obj\Debug\2-08 PersonClass.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\2-08 PersonClass\2-08 PersonClass\obj\Debug\2-08 PersonClass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2017\Projects\03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\bin\Debug\03 AddSubtractMultiplyDivide.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\bin\Debug\03 AddSubtractMultiplyDivide.exe
+c:\users\matt\documents\visual studio 2017\Projects\03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\bin\Debug\03 AddSubtractMultiplyDivide.pdb
+c:\users\matt\documents\visual studio 2017\Projects\03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\obj\Debug\03 AddSubtractMultiplyDivide.exe
+c:\users\matt\documents\visual studio 2017\Projects\03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\obj\Debug\03 AddSubtractMultiplyDivide.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\bin\Debug\03 AddSubtractMultiplyDivide.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\bin\Debug\03 AddSubtractMultiplyDivide.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\bin\Debug\03 AddSubtractMultiplyDivide.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\obj\Debug\03 AddSubtractMultiplyDivide.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\obj\Debug\03 AddSubtractMultiplyDivide.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\1-03 AddSubtractMultiplyDivide\03 AddSubtractMultiplyDivide\obj\Debug\03 AddSubtractMultiplyDivide.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-03 Hello Append\2-03 Hello Append\bin\Debug\2-03 Hello Append.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-03 Hello Append\2-03 Hello Append\bin\Debug\2-03 Hello Append.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-03 Hello Append\2-03 Hello Append\bin\Debug\2-03 Hello Append.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-03 Hello Append\2-03 Hello Append\obj\Debug\2-03 Hello Append.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-03 Hello Append\2-03 Hello Append\obj\Debug\2-03 Hello Append.pdb

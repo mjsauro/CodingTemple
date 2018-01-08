@@ -1,0 +1,5 @@
+c:\users\matt\documents\visual studio 2017\Projects\2-12 CarsAndTrucks\2-12 CarsAndTrucks\bin\Debug\2-12 CarsAndTrucks.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\2-12 CarsAndTrucks\2-12 CarsAndTrucks\bin\Debug\2-12 CarsAndTrucks.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-12 CarsAndTrucks\2-12 CarsAndTrucks\bin\Debug\2-12 CarsAndTrucks.pdb
+c:\users\matt\documents\visual studio 2017\Projects\2-12 CarsAndTrucks\2-12 CarsAndTrucks\obj\Debug\2-12 CarsAndTrucks.exe
+c:\users\matt\documents\visual studio 2017\Projects\2-12 CarsAndTrucks\2-12 CarsAndTrucks\obj\Debug\2-12 CarsAndTrucks.pdb

@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2017\Projects\3-2 Namespaces\3-2 Namespaces\bin\Debug\3-2 Namespaces.exe.config
+c:\users\matt\documents\visual studio 2017\Projects\3-2 Namespaces\3-2 Namespaces\bin\Debug\3-2 Namespaces.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-2 Namespaces\3-2 Namespaces\bin\Debug\3-2 Namespaces.pdb
+c:\users\matt\documents\visual studio 2017\Projects\3-2 Namespaces\3-2 Namespaces\obj\Debug\3-2 Namespaces.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2017\Projects\3-2 Namespaces\3-2 Namespaces\obj\Debug\3-2 Namespaces.exe
+c:\users\matt\documents\visual studio 2017\Projects\3-2 Namespaces\3-2 Namespaces\obj\Debug\3-2 Namespaces.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-2 Namespaces\3-2 Namespaces\bin\Debug\3-2 Namespaces.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-2 Namespaces\3-2 Namespaces\bin\Debug\3-2 Namespaces.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-2 Namespaces\3-2 Namespaces\bin\Debug\3-2 Namespaces.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-2 Namespaces\3-2 Namespaces\obj\Debug\3-2 Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-2 Namespaces\3-2 Namespaces\obj\Debug\3-2 Namespaces.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\CT Pre-Work\3-2 Namespaces\3-2 Namespaces\obj\Debug\3-2 Namespaces.pdb
